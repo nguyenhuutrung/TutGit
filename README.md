@@ -130,6 +130,7 @@ ssh-add -D  :delete id_rsa key
 ssh-add -l   :list id_rsa key
 
 ------------------QUY TRINH LAM VIEC GITHUB-------------------------
+
 Khi push bi loi thi nen chay cau lenh: git credential-cache exit
 
 1.Tai branch master pull suorce moi nhat ve
